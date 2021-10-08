@@ -1,2 +1,4 @@
 this is my firt file in git
-hi, my name is will
+hi, my name is will and i have 22 years old. :D
+
+well, i like learnig with Platzi. 
